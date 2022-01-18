@@ -10,4 +10,4 @@ Also avalible at:
 - [Twitter](https://twitter.com/JoshuaHimmens)
 - Signal (+1 587 434 0118)
 - MMS/SMS (+1 587 434 0118)
-- [Telegram](tg://resolve?domain=joshuahimmens)
+- [Telegram](tg://resolve?domain=joshuahimmens) (joshuahimmens)
